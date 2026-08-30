@@ -4,7 +4,7 @@
 
 ## [🔥 เรียนควอนตัม.com](https://เรียนควอนตัม.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=A78BFA&center=true&vCenter=true&width=620&lines=%E0%B9%80รียนควอนตัม.com+%E2%80%94+the+booth+is+live;open+it.+mash+the+circuit.;SCIUS+student+%40+Burapha;TH+first.+EN+second." alt="typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=A78BFA&center=true&vCenter=true&width=620&lines=the+booth+is+live;open+เรียนควอนตัม.com;SCIUS+student+%40+Burapha;TH+first.+EN+second." alt="typing headline" />
 
 **Don't clone first. Don't read the slides.**  
 Open **[เรียนควอนตัม.com](https://เรียนควอนตัม.com)** — the working booth build. Quantum you can tap.
@@ -23,35 +23,37 @@ Open **[เรียนควอนตัม.com](https://เรียนคว�
 - Making physics **feel** like a toy, not a lecture
 - Shipping in the browser so a school laptop can run it
 - Writing UI in Thai first, English second — not the other way around
-- Putting the **live URL** where people actually look
 
-### ⚡ Right now — the thing to open
+### ⚡ The best thing I shipped
 
 # [เรียนควอนตัม.com](https://เรียนควอนตัม.com)
 
-That's the hostname on the booth laptops. That's the URL I want in the group chat.  
-Rolled back to the last build that didn't catch fire. 7 lab stations, 3-qubit Grover, Qubit Runner — hold Space, go superposition, don't collapse.
-
-SCIUS team. Burapha. Thai / EN toggle in the header.
+**Quantum Experience** — SCIUS BUU booth. 7 lab stations, 3-qubit Grover, Qubit Runner. Thai hostname on the laptops. Rolled back to the last build that didn't catch fire.
 
 ```text
 https://เรียนควอนตัม.com
-
 html · css · vanilla js    no backend    no build step
 open the tab → mash the circuit → argue about Grover
 ```
 
-Source lives at [เรียนควอนตัม / quantum-experience](https://github.com/ProzOz/quantum-experience) if you want to fork. The site is the product.
+Source: [เรียนควอนตัม / quantum-experience](https://github.com/ProzOz/quantum-experience)
 
 ---
 
 ### 🧪 Shipped
 
-| | Thing | Open this |
+Flagship first. Everything else is the bench.
+
+| | Project | What it is |
 | --- | --- | --- |
-| ✨ | **[เรียนควอนตัม.com](https://เรียนควอนตัม.com)** | Live bilingual quantum lab. Booth build. Start here. |
-| 📅 | **[BE ↔ CE Year Converter](https://github.com/ProzOz/Year-Calculator)** | First repo (2021). Buddhist Era ↔ Common Era in Java |
-| 🔐 | **[Ozone Console](https://github.com/ProzOz/login_system-db)** | C++ register / login against two local text files |
+| ✨ | **[เรียนควอนตัม.com](https://เรียนควอนตัม.com)** | **THE project.** Bilingual quantum lab. Drag gates, watch bars jump, play Qubit Runner. |
+| ⚡ | **[infinite-well](https://github.com/ProzOz/infinite-well)** | 1D particle-in-a-box. Plot ψ_n and E_n in the browser |
+| ⏱ | **[booth-timer](https://github.com/ProzOz/booth-timer)** | Fullscreen countdown for rotating booth groups |
+| 🟰 | **[lab-unit-swap](https://github.com/ProzOz/lab-unit-swap)** | SI unit converter for physics lab reports |
+| 🆔 | **[thai-id-check](https://github.com/ProzOz/thai-id-check)** | 13-digit Thai national ID checksum, Python CLI |
+| 🎓 | **[gpa-buu](https://github.com/ProzOz/gpa-buu)** | 4.0 letter-grade GPA calculator in Java |
+| 📅 | **[Year-Calculator](https://github.com/ProzOz/Year-Calculator)** | First public repo, 2021. Buddhist year ↔ Christian year in Java |
+| 🔐 | **[login_system-db](https://github.com/ProzOz/login_system-db)** | Register + login against a local text file, C++ |
 
 ---
 
