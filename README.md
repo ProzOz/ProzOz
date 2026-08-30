@@ -2,15 +2,10 @@
 
 # 👋 สวัสดี — I'm Chonlatee
 
-## [🔥 เรียนควอนตัม.com](https://เรียนควอนตัม.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=620&lines=SCIUS+student+%40+Burapha;I+ship+interfaces+people+can+tap;TH+first.+EN+second.;Bangsaen" alt="typing headline" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=A78BFA&center=true&vCenter=true&width=620&lines=the+booth+is+live;open+เรียนควอนตัม.com;SCIUS+student+%40+Burapha;TH+first.+EN+second." alt="typing headline" />
+School laptop first. Thai UI first. If it needs a slide deck to make sense, it isn't done.
 
-**Don't clone first. Don't read the slides.**  
-Open **[เรียนควอนตัม.com](https://เรียนควอนตัม.com)** — the working booth build. Quantum you can tap.
-
-[![live — เรียนควอนตัม.com](https://img.shields.io/badge/👉_PLAY-เรียนควอนตัม.com-7c3aed?style=for-the-badge)](https://เรียนควอนตัม.com)
-[![source](https://img.shields.io/badge/source-quantum--experience-161b22?style=for-the-badge)](https://github.com/ProzOz/quantum-experience)
 [![SCIUS BUU](https://img.shields.io/badge/lab-SCIUS_BUU-0ea5e9?style=for-the-badge)](https://science.buu.ac.th/scius)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4303--8680-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-4303-8680)
 
@@ -20,39 +15,17 @@ Open **[เรียนควอนตัม.com](https://เรียนคว�
 
 ### 💡 What I care about
 
-- Making physics **feel** like a toy, not a lecture
-- Shipping in the browser so a school laptop can run it
-- Writing UI in Thai first, English second — not the other way around
+- Screens you can click, drag, and search — not a formula in a box
+- Static files so a school laptop can open them
+- Thai copy first
 
-### ⚡ The best thing I shipped
+### 🖼️ Open these
 
-# [เรียนควอนตัม.com](https://เรียนควอนตัม.com)
-
-**Quantum Experience** — SCIUS BUU booth. 7 lab stations, 3-qubit Grover, Qubit Runner. Thai hostname on the laptops. Rolled back to the last build that didn't catch fire.
-
-```text
-https://เรียนควอนตัม.com
-html · css · vanilla js    no backend    no build step
-open the tab → mash the circuit → argue about Grover
-```
-
-Source: [quantum-experience](https://github.com/ProzOz/quantum-experience)
-
----
-
-### 🧪 Shipped
-
-The booth first. Then labs you can open. Homework one-liners stay off this table.
-
-| | Project | What it is |
+| | Project | What you get |
 | --- | --- | --- |
-| ✨ | **[เรียนควอนตัม.com](https://เรียนควอนตัม.com)** | **THE project.** Bilingual quantum lab. Drag gates, watch bars jump, play Qubit Runner. |
-| ⚡ | **[infinite-well](https://github.com/ProzOz/infinite-well)** | 1D infinite well. Plot ψ_n and E_n |
-| 🔭 | **[snell-lab](https://github.com/ProzOz/snell-lab)** | Refraction bench. Drag the ray, hit TIR |
-| 📉 | **[decay-curve](https://github.com/ProzOz/decay-curve)** | Radioactive decay. N(t) = N0 e^{-λt} |
-| 🎵 | **[note-freq](https://github.com/ProzOz/note-freq)** | Equal temperament from A4 = 440 Hz. Click, hear f = 440·2^{n/12} |
-| 🟰 | **[lab-unit-swap](https://github.com/ProzOz/lab-unit-swap)** | SI converter for lab reports |
-| ⏱ | **[booth-timer](https://github.com/ProzOz/booth-timer)** | Fullscreen countdown for booth rotations |
+| 📋 | **[desk-board](https://github.com/ProzOz/desk-board)** | Kanban ยังไม่ทำ / กำลังทำ / เสร็จ. Drag cards. Stays in the browser. |
+| 🌊 | **[saen-spots](https://github.com/ProzOz/saen-spots)** | Bangsaen place guide. Search, tags, place sheet. |
+| 🌐 | **[quantum-experience](https://github.com/ProzOz/quantum-experience)** | Older booth site. Live at [เรียนควอนตัม.com](https://เรียนควอนตัม.com) |
 | 📅 | **[Year-Calculator](https://github.com/ProzOz/Year-Calculator)** | First public repo, 2021. BE ↔ CE |
 | 🔒 | **[login_system-db](https://github.com/ProzOz/login_system-db)** | Register + login against a text file |
 
@@ -78,8 +51,8 @@ The booth first. Then labs you can open. Homework one-liners stay off this table
 
 <div align="center">
 
-**[เรียนควอนตัม.com](https://เรียนควอนตัม.com)** · Bangsaen, Thailand · building in public when the booth isn't on fire
+Bangsaen, Thailand · building in public
 
-[เรียนควอนตัม.com](https://เรียนควอนตัม.com) · [GitHub](https://github.com/ProzOz) · [X](https://x.com/MagnisiumNq) · [ORCID](https://orcid.org/0009-0000-4303-8680) · [SCIUS](https://science.buu.ac.th/scius)
+[GitHub](https://github.com/ProzOz) · [X](https://x.com/MagnisiumNq) · [ORCID](https://orcid.org/0009-0000-4303-8680) · [SCIUS](https://science.buu.ac.th/scius)
 
 </div>
