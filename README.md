@@ -22,22 +22,22 @@
 
 ### ⚡ Right now
 
-Working on **[Quantum Experience](https://github.com/ProzOz/quantum-experience)** with the SCIUS team — 7 lab stations, a 3-qubit Grover builder, and a runner game where you hold Space to go into superposition.
+**[Quantum Experience](https://github.com/ProzOz/quantum-experience)** with the SCIUS team — 7 lab stations, a 3-qubit Grover builder, Qubit Runner. Thai hostname on the booth laptops; the GitHub repo is the thing to open.
 
 ```text
 html · css · vanilla js    no backend    no build step
-open the folder → serve it → kids mash the circuit
+clone → serve the folder → mash the circuit
 ```
 
 ---
 
 ### 🧪 Shipped
 
-| 🚀 | Project | What it is |
+| | Project | What it is |
 | --- | --- | --- |
-| ✨ | **[quantum-experience](https://github.com/ProzOz/quantum-experience)** | Bilingual quantum lab. Drag gates, watch bars jump, play Qubit Runner |
-| 📅 | **[Year-Calculator](https://github.com/ProzOz/Year-Calculator)** | First public repo. Christian ↔ Buddhist year in Java |
-| 🔐 | **[login_system-db](https://github.com/ProzOz/login_system-db)** | Login / register + local DB in C++ |
+| ✨ | **[quantum-experience](https://github.com/ProzOz/quantum-experience)** | Bilingual quantum lab for SCIUS booths |
+| 📅 | **[BE ↔ CE Year Converter](https://github.com/ProzOz/Year-Calculator)** | First repo (2021). Buddhist Era ↔ Common Era in Java |
+| 🔐 | **[Ozone Console](https://github.com/ProzOz/login_system-db)** | C++ register / login against two local text files |
 
 ---
 
