@@ -36,24 +36,32 @@ html · css · vanilla js    no backend    no build step
 open the tab → mash the circuit → argue about Grover
 ```
 
-Source: [เรียนควอนตัม / quantum-experience](https://github.com/ProzOz/quantum-experience)
+Source: [quantum-experience](https://github.com/ProzOz/quantum-experience)
 
 ---
 
 ### 🧪 Shipped
 
-Flagship first. Everything else is the bench.
+Flagship first. The rest is the bench — small tools I actually open.
 
 | | Project | What it is |
 | --- | --- | --- |
 | ✨ | **[เรียนควอนตัม.com](https://เรียนควอนตัม.com)** | **THE project.** Bilingual quantum lab. Drag gates, watch bars jump, play Qubit Runner. |
-| ⚡ | **[infinite-well](https://github.com/ProzOz/infinite-well)** | 1D particle-in-a-box. Plot ψ_n and E_n in the browser |
-| ⏱ | **[booth-timer](https://github.com/ProzOz/booth-timer)** | Fullscreen countdown for rotating booth groups |
-| 🟰 | **[lab-unit-swap](https://github.com/ProzOz/lab-unit-swap)** | SI unit converter for physics lab reports |
-| 🆔 | **[thai-id-check](https://github.com/ProzOz/thai-id-check)** | 13-digit Thai national ID checksum, Python CLI |
-| 🎓 | **[gpa-buu](https://github.com/ProzOz/gpa-buu)** | 4.0 letter-grade GPA calculator in Java |
-| 📅 | **[Year-Calculator](https://github.com/ProzOz/Year-Calculator)** | First public repo, 2021. Buddhist year ↔ Christian year in Java |
-| 🔐 | **[login_system-db](https://github.com/ProzOz/login_system-db)** | Register + login against a local text file, C++ |
+| ⚡ | **[infinite-well](https://github.com/ProzOz/infinite-well)** | 1D particle-in-a-box. Plot ψ_n and E_n |
+| 📉 | **[decay-curve](https://github.com/ProzOz/decay-curve)** | Radioactive decay slider. N(t) = N0 e^{-λt} |
+| ⚡ | **[ohm-lab](https://github.com/ProzOz/ohm-lab)** | Fill two of V, I, R. Get the third |
+| 🟰 | **[lab-unit-swap](https://github.com/ProzOz/lab-unit-swap)** | SI unit converter for lab reports |
+| ⏱ | **[booth-timer](https://github.com/ProzOz/booth-timer)** | Fullscreen countdown for booth rotations |
+| 🆔 | **[thai-id-check](https://github.com/ProzOz/thai-id-check)** | 13-digit Thai national ID checksum |
+| 💰 | **[baht-text](https://github.com/ProzOz/baht-text)** | Number → หนึ่งสิบบาทถ้วน |
+| 🎨 | **[rgb-hex](https://github.com/ProzOz/rgb-hex)** | RGB ↔ hex color pad |
+| 01 | **[bin-pad](https://github.com/ProzOz/bin-pad)** | Decimal ↔ binary ↔ hex |
+| 🔐 | **[caesar-lab](https://github.com/ProzOz/caesar-lab)** | Caesar cipher encode / decode |
+| 🧮 | **[two-by-two](https://github.com/ProzOz/two-by-two)** | 2×2 det, inverse, multiply |
+| 🧱 | **[stack-notes](https://github.com/ProzOz/stack-notes)** | Array stack in C++. push / pop / peek |
+| 🎓 | **[gpa-buu](https://github.com/ProzOz/gpa-buu)** | 4.0 letter-grade GPA calculator |
+| 📅 | **[Year-Calculator](https://github.com/ProzOz/Year-Calculator)** | First public repo, 2021. BE ↔ CE |
+| 🔒 | **[login_system-db](https://github.com/ProzOz/login_system-db)** | Register + login against a text file |
 
 ---
 
