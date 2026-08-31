@@ -2,15 +2,29 @@
 
 # 👋 สวัสดี — I'm Chonlatee
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=620&lines=SCIUS+student+%40+Burapha;I+ship+interfaces+people+can+tap;TH+first.+EN+second.;Bangsaen" alt="typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=620&lines=SCIUS+student+%40+Burapha;two+live+quantum+sites;TH+first.+EN+second.;Bangsaen" alt="typing headline" />
 
 School laptop first. Thai UI first. If it needs a slide deck to make sense, it isn't done.
 
-[![SCIUS BUU](https://img.shields.io/badge/lab-SCIUS_BUU-0ea5e9?style=for-the-badge)](https://science.buu.ac.th/scius)
+[![เรียนควอนตัม.com](https://img.shields.io/badge/เรียนควอนตัม.com-booth-7c3aed?style=for-the-badge)](https://เรียนควอนตัม.com)
+[![ทดลองควอนตัม.com](https://img.shields.io/badge/ทดลองควอนตัม.com-lab-0ea5e9?style=for-the-badge)](https://ทดลองควอนตัม.com)
+
+[![SCIUS BUU](https://img.shields.io/badge/lab-SCIUS_BUU-161b22?style=for-the-badge)](https://science.buu.ac.th/scius)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4303--8680-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-4303-8680)
 [![repos](https://img.shields.io/badge/public_repos-27-161b22?style=for-the-badge)](https://github.com/ProzOz?tab=repositories)
 
 </div>
+
+---
+
+### ⚡ Two live sites — same tier
+
+| | | |
+| --- | --- | --- |
+| 🔥 | **[เรียนควอนตัม.com](https://เรียนควอนตัม.com)** | **Quantum Experience** — SCIUS booth. 7 stations, Grover builder, Qubit Runner. Source: [quantum-experience](https://github.com/ProzOz/quantum-experience) |
+| 🧪 | **[ทดลองควอนตัม.com](https://ทดลองควอนตัม.com)** | **Try Quantum** — 1–4 qubit circuit lab in the browser. Local sim; optional visitor API keys. Source: [quantum-vibe](https://github.com/ProzOz/quantum-vibe) |
+
+Two domains. Two repos. Neither is a side tool.
 
 ---
 
@@ -20,14 +34,12 @@ School laptop first. Thai UI first. If it needs a slide deck to make sense, it i
 - Static files so a school laptop can open them
 - Thai copy first
 
-### 🖼️ Open these
+### 🖼️ Also open
 
 | | Project | What you get |
 | --- | --- | --- |
 | 📋 | **[desk-board](https://github.com/ProzOz/desk-board)** | Kanban ยังไม่ทำ / กำลังทำ / เสร็จ. Drag cards. Stays in the browser. |
 | 🌊 | **[saen-spots](https://github.com/ProzOz/saen-spots)** | Bangsaen place guide. Search, tags, place sheet. |
-| 🖥️ | **[quantum-vibe](https://github.com/ProzOz/quantum-vibe)** | In-browser 1–4 qubit teaching prototype |
-| 🌐 | **[quantum-experience](https://github.com/ProzOz/quantum-experience)** | Booth site. Live at [เรียนควอนตัม.com](https://เรียนควอนตัม.com) |
 | 📅 | **[Year-Calculator](https://github.com/ProzOz/Year-Calculator)** | First public repo, 2021. BE ↔ CE |
 | 🔒 | **[login_system-db](https://github.com/ProzOz/login_system-db)** | Register + login against a text file |
 
@@ -35,14 +47,14 @@ School laptop first. Thai UI first. If it needs a slide deck to make sense, it i
 
 ### 📂 Full list
 
-Every public repo, one chip each. Featured ones sit up top; this is the index.
+Every public repo, one chip each. The two live sites sit up top; this is the index.
 
 <div align="center">
 
+[![quantum-experience](https://img.shields.io/badge/เรียนควอนตัม.com-quantum--experience-7c3aed?style=flat-square)](https://github.com/ProzOz/quantum-experience)
+[![quantum-vibe](https://img.shields.io/badge/ทดลองควอนตัม.com-quantum--vibe-0ea5e9?style=flat-square)](https://github.com/ProzOz/quantum-vibe)
 [![desk-board](https://img.shields.io/badge/desk--board-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/ProzOz/desk-board)
 [![saen-spots](https://img.shields.io/badge/saen--spots-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/ProzOz/saen-spots)
-[![quantum-vibe](https://img.shields.io/badge/quantum--vibe-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/ProzOz/quantum-vibe)
-[![quantum-experience](https://img.shields.io/badge/quantum--experience-web-7c3aed?style=flat-square)](https://github.com/ProzOz/quantum-experience)
 [![Year-Calculator](https://img.shields.io/badge/Year--Calculator-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ProzOz/Year-Calculator)
 [![login_system-db](https://img.shields.io/badge/login_system--db-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/ProzOz/login_system-db)
 [![infinite-well](https://img.shields.io/badge/infinite--well-HTML-E34F26?style=flat-square)](https://github.com/ProzOz/infinite-well)
@@ -91,7 +103,7 @@ Every public repo, one chip each. Featured ones sit up top; this is the index.
 
 <div align="center">
 
-Bangsaen, Thailand · building in public
+[เรียนควอนตัม.com](https://เรียนควอนตัม.com) · [ทดลองควอนตัม.com](https://ทดลองควอนตัม.com) · Bangsaen, Thailand
 
 [GitHub](https://github.com/ProzOz) · [X](https://x.com/MagnisiumNq) · [ORCID](https://orcid.org/0009-0000-4303-8680) · [SCIUS](https://science.buu.ac.th/scius)
 
