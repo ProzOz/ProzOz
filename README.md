@@ -8,6 +8,7 @@ School laptop first. Thai UI first. If it needs a slide deck to make sense, it i
 
 [![SCIUS BUU](https://img.shields.io/badge/lab-SCIUS_BUU-0ea5e9?style=for-the-badge)](https://science.buu.ac.th/scius)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4303--8680-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-4303-8680)
+[![repos](https://img.shields.io/badge/public_repos-27-161b22?style=for-the-badge)](https://github.com/ProzOz?tab=repositories)
 
 </div>
 
@@ -25,9 +26,48 @@ School laptop first. Thai UI first. If it needs a slide deck to make sense, it i
 | --- | --- | --- |
 | 📋 | **[desk-board](https://github.com/ProzOz/desk-board)** | Kanban ยังไม่ทำ / กำลังทำ / เสร็จ. Drag cards. Stays in the browser. |
 | 🌊 | **[saen-spots](https://github.com/ProzOz/saen-spots)** | Bangsaen place guide. Search, tags, place sheet. |
-| 🌐 | **[quantum-experience](https://github.com/ProzOz/quantum-experience)** | Older booth site. Live at [เรียนควอนตัม.com](https://เรียนควอนตัม.com) |
+| 🖥️ | **[quantum-vibe](https://github.com/ProzOz/quantum-vibe)** | In-browser 1–4 qubit teaching prototype |
+| 🌐 | **[quantum-experience](https://github.com/ProzOz/quantum-experience)** | Booth site. Live at [เรียนควอนตัม.com](https://เรียนควอนตัม.com) |
 | 📅 | **[Year-Calculator](https://github.com/ProzOz/Year-Calculator)** | First public repo, 2021. BE ↔ CE |
 | 🔒 | **[login_system-db](https://github.com/ProzOz/login_system-db)** | Register + login against a text file |
+
+---
+
+### 📂 Full list
+
+Every public repo, one chip each. Featured ones sit up top; this is the index.
+
+<div align="center">
+
+[![desk-board](https://img.shields.io/badge/desk--board-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/ProzOz/desk-board)
+[![saen-spots](https://img.shields.io/badge/saen--spots-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/ProzOz/saen-spots)
+[![quantum-vibe](https://img.shields.io/badge/quantum--vibe-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/ProzOz/quantum-vibe)
+[![quantum-experience](https://img.shields.io/badge/quantum--experience-web-7c3aed?style=flat-square)](https://github.com/ProzOz/quantum-experience)
+[![Year-Calculator](https://img.shields.io/badge/Year--Calculator-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ProzOz/Year-Calculator)
+[![login_system-db](https://img.shields.io/badge/login_system--db-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/ProzOz/login_system-db)
+[![infinite-well](https://img.shields.io/badge/infinite--well-HTML-E34F26?style=flat-square)](https://github.com/ProzOz/infinite-well)
+[![snell-lab](https://img.shields.io/badge/snell--lab-HTML-E34F26?style=flat-square)](https://github.com/ProzOz/snell-lab)
+[![decay-curve](https://img.shields.io/badge/decay--curve-HTML-E34F26?style=flat-square)](https://github.com/ProzOz/decay-curve)
+[![note-freq](https://img.shields.io/badge/note--freq-HTML-E34F26?style=flat-square)](https://github.com/ProzOz/note-freq)
+[![lab-unit-swap](https://img.shields.io/badge/lab--unit--swap-HTML-E34F26?style=flat-square)](https://github.com/ProzOz/lab-unit-swap)
+[![booth-timer](https://img.shields.io/badge/booth--timer-HTML-E34F26?style=flat-square)](https://github.com/ProzOz/booth-timer)
+[![ohm-lab](https://img.shields.io/badge/ohm--lab-HTML-E34F26?style=flat-square)](https://github.com/ProzOz/ohm-lab)
+[![rgb-hex](https://img.shields.io/badge/rgb--hex-HTML-E34F26?style=flat-square)](https://github.com/ProzOz/rgb-hex)
+[![bin-pad](https://img.shields.io/badge/bin--pad-HTML-E34F26?style=flat-square)](https://github.com/ProzOz/bin-pad)
+[![thai-id-check](https://img.shields.io/badge/thai--id--check-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ProzOz/thai-id-check)
+[![baht-text](https://img.shields.io/badge/baht--text-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ProzOz/baht-text)
+[![caesar-lab](https://img.shields.io/badge/caesar--lab-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ProzOz/caesar-lab)
+[![prime-sieve](https://img.shields.io/badge/prime--sieve-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ProzOz/prime-sieve)
+[![word-count](https://img.shields.io/badge/word--count-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ProzOz/word-count)
+[![gpa-buu](https://img.shields.io/badge/gpa--buu-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ProzOz/gpa-buu)
+[![two-by-two](https://img.shields.io/badge/two--by--two-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ProzOz/two-by-two)
+[![quadratic](https://img.shields.io/badge/quadratic-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ProzOz/quadratic)
+[![fib-lab](https://img.shields.io/badge/fib--lab-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ProzOz/fib-lab)
+[![stack-notes](https://img.shields.io/badge/stack--notes-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/ProzOz/stack-notes)
+[![queue-notes](https://img.shields.io/badge/queue--notes-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/ProzOz/queue-notes)
+[![percent-error](https://img.shields.io/badge/percent--error-lab-0ea5e9?style=flat-square)](https://github.com/ProzOz/percent-error)
+
+</div>
 
 ---
 
